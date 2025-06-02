@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|c:\\users\\daoph\\source\\repos\\softwarestore\\softwarestore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|solutionrelative:softwarestore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|c:\\users\\daoph\\source\\repos\\softwarestore\\softwarestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|solutionrelative:softwarestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|c:\\users\\daoph\\source\\repos\\softwarestore\\softwarestore\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|solutionrelative:softwarestore\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|c:\\users\\daoph\\source\\repos\\softwarestore\\softwarestore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|solutionrelative:softwarestore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|c:\\users\\daoph\\source\\repos\\softwarestore\\softwarestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|solutionrelative:softwarestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|c:\\users\\daoph\\source\\repos\\softwarestore\\softwarestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|solutionrelative:softwarestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|c:\\users\\daoph\\source\\repos\\softwarestore\\softwarestore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|solutionrelative:softwarestore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|c:\\users\\daoph\\source\\repos\\softwarestore\\softwarestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52D233B0-63DA-4EF2-A339-C879D52DB229}|SoftwareStore\\SoftwareStore.csproj|solutionrelative:softwarestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareStore\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SoftwareStore\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-31T22:30:53.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\appsettings.json",
+              "RelativeDocumentMoniker": "SoftwareStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\appsettings.json",
+              "RelativeToolTip": "SoftwareStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T21:18:01.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Program.cs",
+              "RelativeDocumentMoniker": "SoftwareStore\\Program.cs",
+              "ToolTip": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Program.cs",
+              "RelativeToolTip": "SoftwareStore\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:09:20.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SoftwareStore\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\User.cs",
+              "RelativeToolTip": "SoftwareStore\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:55:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SoftwareStore\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SoftwareStore\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:49:58.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SoftwareStore\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\Order.cs",
+              "RelativeToolTip": "SoftwareStore\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:41:11.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SoftwareStore\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\Category.cs",
+              "RelativeToolTip": "SoftwareStore\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:34:18.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SoftwareStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\daoph\\source\\repos\\SoftwareStore\\SoftwareStore\\Models\\Product.cs",
+              "RelativeToolTip": "SoftwareStore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:28:56.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
